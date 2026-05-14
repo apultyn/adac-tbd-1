@@ -1,4 +1,6 @@
 .venv
 .claude
+.idea
 output
 data_adac1
+*.html
